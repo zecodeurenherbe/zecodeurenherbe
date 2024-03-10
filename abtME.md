@@ -5,7 +5,12 @@
 - 📫 You can reach me only if you have 6G+
 - 😄 Pronouns: Mister
 - ⚡ Fun fact: My hair naturally stays up at the front
-
+  
+PROJECTS
+  - ORIGAMI
+    - Cyclic-symmetric, Origami-adapted, morphabe structure  
+  - EMBEDDED SYSTEMS ON LINUX
+    - Board ARM cortex M7
 <!---
 zecodeurenherbe/zecodeurenherbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
