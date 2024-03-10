@@ -8,7 +8,7 @@
   
 PROJECTS
   - ORIGAMI
-    - Cyclic-symmetric, Origami-adapted, morphabe structure  
+    - Cyclic-symmetric, Origami-adapted, morphable structure  
   - EMBEDDED SYSTEMS ON LINUX
     - Board ARM cortex M7
 <!---
